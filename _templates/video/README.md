@@ -1,4 +1,4 @@
-# [Tutorial title]
+# [Video title]
 
 [One sentence explaining what the viewer will understand or be able to do.]
 

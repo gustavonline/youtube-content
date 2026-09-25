@@ -1,4 +1,4 @@
-# [Tutorial title]
+# [Video title]
 
 [Explain the question or problem in a short opening paragraph.]
 
